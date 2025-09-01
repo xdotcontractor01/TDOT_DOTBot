@@ -1,0 +1,42 @@
+Drawings Link:- 
+https://www.tn.gov/tdot/state-engineering-technical-training/production-support/standard-drawings-library/standard-roadway-drawings.html
+
+Sample json format:-
+
+[
+  {
+    "folder": "Roadway Design Standards",
+    "sub_section": "RD11 Slope Development and Runoff Lengths",
+    "image_id": "RD11-LR-1",
+    "description": "MINIMUM RUNOFF LENGTHS (Lr) FOR URBAN HIGHWAYS",
+    "link": "https://www.tn.gov/content/dam/tn/tdot/engineering-production-support/documents/standard-drawings/roadway-standard-drawings/current/roadway-design-standards/RD11LR1.pdf"
+  },
+  {
+    "folder": "Roadway Design Standards",
+    "sub_section": "RD11 Slope Development and Runoff Lengths",
+    "image_id": "RD11-LR-2",
+    "description": "MINIMUM RUNOFF LENGTHS (LR) FOR RURAL HIGHWAYS",
+    "link": "https://www.tn.gov/content/dam/tn/tdot/engineering-production-support/documents/standard-drawings/roadway-standard-drawings/current/roadway-design-standards/RD11LR2.pdf"
+  },
+  {
+    "folder": "Roadway Design Standards",
+    "sub_section": "RD11 Slope Development and Runoff Lengths",
+    "image_id": "RD11-S-11",
+    "description": "DESIGN AND CONSTRUCTION DETAILS FOR ROADSIDE SLOPE DEVELOPMENT",
+    "link": "https://www.tn.gov/content/dam/tn/tdot/engineering-production-support/documents/standard-drawings/roadway-standard-drawings/current/roadway-design-standards/RD11S11.pdf"
+  },
+  {
+    "folder": "Roadway Design Standards",
+    "sub_section": "RD11 Slope Development and Runoff Lengths",
+    "image_id": "RD11-S-11A",
+    "description": "ROADSIDE DITCH DETAILS FOR DESIGN AND CONSTRUCTION",
+    "link": "https://www.tn.gov/content/dam/tn/tdot/engineering-production-support/documents/standard-drawings/roadway-standard-drawings/current/roadway-design-standards/RD11S11A.pdf"
+  },
+  {
+    "folder": "Roadway Design Standards",
+    "sub_section": "RD11 Slope Development and Runoff Lengths",
+    "image_id": "RD11-S-11B",
+    "description": "DESIGN AND CONSTRUCTION DETAILS FOR ROCK CUT SLOPE AND CATCHMENT",
+    "link": "https://www.tn.gov/content/dam/tn/tdot/engineering-production-support/documents/standard-drawings/roadway-standard-drawings/current/roadway-design-standards/RD11S11B.pdf"
+  }
+]
